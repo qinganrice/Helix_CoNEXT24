@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/RB_share_agora.dir/RB_share_para_agora.cpp.o CMakeFiles/RB_share_agora.dir/alloc_rb.cpp.o -o RB_share_agora  -Wl,-rpath,/usr/lib/x86_64-linux-gnu/hdf5/serial /usr/lib/x86_64-linux-gnu/libarmadillo.so /usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5_cpp.so /usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so 

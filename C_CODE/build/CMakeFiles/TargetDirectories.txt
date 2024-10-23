@@ -1,0 +1,3 @@
+/home/qing/Beam_slice/build/CMakeFiles/RB_orth.dir
+/home/qing/Beam_slice/build/CMakeFiles/edit_cache.dir
+/home/qing/Beam_slice/build/CMakeFiles/rebuild_cache.dir

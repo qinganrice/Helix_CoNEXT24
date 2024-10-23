@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/greedy_plus.dir/greedy_plus_MR.cpp.o CMakeFiles/greedy_plus.dir/max_rate.cpp.o CMakeFiles/greedy_plus.dir/func.cpp.o -o greedy_plus  -Wl,-rpath,/usr/lib/x86_64-linux-gnu/hdf5/serial /usr/lib/x86_64-linux-gnu/libarmadillo.so /usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5_cpp.so /usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so 

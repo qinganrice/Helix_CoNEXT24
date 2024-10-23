@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/qing/Beam_slice/build",
+  "command": "/usr/bin/c++ -I/home/qing/Beam_slice/./include -I/usr/include/hdf5/serial -g -o CMakeFiles/RB_share_agora.dir/RB_share_para_agora.cpp.o -c /home/qing/Beam_slice/RB_share_para_agora.cpp",
+  "file": "/home/qing/Beam_slice/RB_share_para_agora.cpp"
+},
+{
+  "directory": "/home/qing/Beam_slice/build",
+  "command": "/usr/bin/c++ -I/home/qing/Beam_slice/./include -I/usr/include/hdf5/serial -g -o CMakeFiles/RB_share_agora.dir/alloc_rb.cpp.o -c /home/qing/Beam_slice/alloc_rb.cpp",
+  "file": "/home/qing/Beam_slice/alloc_rb.cpp"
+}
+]
